@@ -59,6 +59,29 @@ $ git clone https://github.com/Kim-kwan-woo/secret_app.git
 
 2. Run this app in your AVD
 
+### :bulb: Build APK
+
+1. Clone this repository.
+
+```terminal
+$ git clone https://github.com/Kim-kwan-woo/secret_app.git
+```
+
+2. Move to file directory.
+```terminal
+$ cd .../secret_app
+```
+
+3. Build APK file.
+```terminal
+$ flutter build apk --release --target-platform=android-arm64
+```
+
+4. You Can find APK file here.
+```terminal
+secret_app/build/app/outputs/apk/release/app-release.apk
+```
+
 ## Reference
 
 ### You can see the detailed description of this app 
