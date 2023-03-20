@@ -82,7 +82,7 @@ $ flutter build apk --release --target-platform=android-arm64
 secret_app/build/app/outputs/apk/release/app-release.apk
 ```
 
-## Reference
+## Blog 
 
 ### You can see the detailed description of this app 
 
